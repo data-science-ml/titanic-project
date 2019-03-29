@@ -12,3 +12,20 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
+### Note
+
+Do not submit any predictions to Kaggle, this is only for class purposes.
+
+### Instructions
+
+- Download data from kaggle
+- Perform EDA (filter, impute missing values)
+- Perform Feature Engineering (create new columns from old ones)
+- All columns must be numeric
+- Evaluate multiple models
+  - Logistic Regression
+  - Decision Tree Classifier
+  - Random Forest Classifier
+ - Grid search hyperparameters for each model
+ - What is the best model/hyperparameters
+ 
