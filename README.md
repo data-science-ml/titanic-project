@@ -28,4 +28,5 @@ Do not submit any predictions to Kaggle, this is only for class purposes.
   - Random Forest Classifier
  - Grid search hyperparameters for each model
  - What is the best model/hyperparameters
+ - Summarize your findings
  
